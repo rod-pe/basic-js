@@ -6,20 +6,22 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 ## 1 - Variáveis e Template Strings
 - Criar duas variáveis:
     ```
-    (nome, idade)
+    nome, idade
     ```
  
  - Em seguida, exibir uma mensagem com essas informações.
 
 - Saída esperada: Meu nome é Rodrigo e tenho 23 anos.
+  
+- Utilizar *template strings* para imprimir a resposta.
 
 
 ## 2- Operadores aritméticos
 
 - Criar duas variáveis aritméticas:
     ```
-    - let numero1 = 18;
-    - let numero2 = 7;
+    let numero1 = 18;
+    let numero2 = 7;
     ```
 
 - Exibir o resultado das seguintes operações:
@@ -34,7 +36,7 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 
 -  Criar uma variável:
     ```
-    - let preco = 250;;
+    let preco = 250;
     ```
 
 - Utilizar concatenação para exibir a seguinte mensagem:
@@ -45,7 +47,7 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 
 - Criar uma variável:
     ```
-    - let idade = 20;
+    let idade = 20;
     ```
 
 - Verificar se a pessoa é maior ou menor de idade.
@@ -87,7 +89,7 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 
 - Criar uma variável:
     ```
-    - let temperatura = 32;
+    let temperatura = 32;
     ```
 
 - Utilizar o operador ternário para informar:
@@ -98,7 +100,7 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 
 - Criar uma variável:
     ```
-    - let saldo = 150;
+    let saldo = 150;
     ```
 
 - Utilizar o operador ternário para verificar se o saldo é positivo.
@@ -108,7 +110,7 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 
 - Criar uma função chamada:
     ```
-    - cumprimentar(nome);
+    cumprimentar(nome);
     ```
 
 - Deverá retornar uma saudação personalizada.
@@ -117,7 +119,7 @@ Perguntas simples para iniciantes em JS, com o intuito de aprimorar suas prátic
 
 - Criar uma função:
     ```
-    - somar (a,b);
+    somar (a,b);
     ```
 
 Deverá retornar a soma dos dois números.
@@ -126,7 +128,7 @@ Deverá retornar a soma dos dois números.
 
 - criar uma função:
     ```
-    - parOuImpar(numero);
+    parOuImpar(numero);
     ```
 
 - Deverá informar se o número fornecido é par ou ímpar.
@@ -135,7 +137,7 @@ Deverá retornar a soma dos dois números.
 
 - Criar uma função:
     ```
-    - boasVindas(nome = "Visitante");
+    boasVindas(nome = "Visitante");
     ```
 
 - Caso nenhum argumento seja informado, utilizar o valor padrão "Visitante".
@@ -143,7 +145,7 @@ Deverá retornar a soma dos dois números.
 ## 14 - Cálculo de média (Desafio)
 - Criar uma função:
     ```
-    - calcularMedia(n1,n2);
+    calcularMedia(n1,n2);
     ```
 - Deverá retornar:
     - Calcular média das duas notas;
